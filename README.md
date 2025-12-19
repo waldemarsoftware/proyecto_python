@@ -28,3 +28,7 @@ print() → para mostrar el puntaje final en pantalla.
 if / else (opcional) → para validar condiciones o aplicar reglas especiales.
 
 Funciones (def) (opcional) → para organizar el cálculo del puntaje.
+
+## Autor
+Waldemar Abrego Beltran
+[LinkedIn] (www.linkedin.com/in/waldemar-abrego-beltran-b42a04394)
